@@ -2,7 +2,7 @@
   "name": "hello-world-ci-cd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/FernandoGalende/hello-world-ci-cd/",
+  "homepage": "https://fernandogalende.github.io/hello-world-ci-cd/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
