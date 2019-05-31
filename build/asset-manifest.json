@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hello-world-ci-cd/static/css/main.2cce8147.chunk.css",
+    "main.js": "/hello-world-ci-cd/static/js/main.b57f72f1.chunk.js",
+    "main.js.map": "/hello-world-ci-cd/static/js/main.b57f72f1.chunk.js.map",
+    "runtime~main.js": "/hello-world-ci-cd/static/js/runtime~main.66adea25.js",
+    "runtime~main.js.map": "/hello-world-ci-cd/static/js/runtime~main.66adea25.js.map",
+    "static/js/2.b41502e9.chunk.js": "/hello-world-ci-cd/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/hello-world-ci-cd/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/hello-world-ci-cd/index.html",
+    "precache-manifest.b7704a454f02920881eba652c01057fe.js": "/hello-world-ci-cd/precache-manifest.b7704a454f02920881eba652c01057fe.js",
+    "service-worker.js": "/hello-world-ci-cd/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/hello-world-ci-cd/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/hello-world-ci-cd/static/media/logo.5d5d9eef.svg"
+  }
+}
